@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/pritesh_portfolio/static/css/main.7c3caed7.css",
-    "main.js": "/pritesh_portfolio/static/js/main.ea7b33f6.js",
+    "main.js": "/pritesh_portfolio/static/js/main.56db5de0.js",
     "static/js/787.128fc6e9.chunk.js": "/pritesh_portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Brhamanti_logo.png": "/pritesh_portfolio/static/media/Brhamanti_logo.00e6998427aaa631cf23.png",
     "static/media/NewsOwl.png": "/pritesh_portfolio/static/media/NewsOwl.883dc34bfab0d0784e8b.png",
+    "static/media/Pritesh_Resume.pdf": "/pritesh_portfolio/static/media/Pritesh_Resume.cffde5d9c959c5e1e83e.pdf",
     "index.html": "/pritesh_portfolio/index.html",
     "main.7c3caed7.css.map": "/pritesh_portfolio/static/css/main.7c3caed7.css.map",
-    "main.ea7b33f6.js.map": "/pritesh_portfolio/static/js/main.ea7b33f6.js.map",
+    "main.56db5de0.js.map": "/pritesh_portfolio/static/js/main.56db5de0.js.map",
     "787.128fc6e9.chunk.js.map": "/pritesh_portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c3caed7.css",
-    "static/js/main.ea7b33f6.js"
+    "static/js/main.56db5de0.js"
   ]
 }

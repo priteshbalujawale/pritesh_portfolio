@@ -14,7 +14,7 @@ function Home() {
       <h1>
         Hi, I'm <span className="m-name">Pritesh Jawale</span>
       </h1>
-      <span className="m-title my-2">(FrontEnd Developer)</span>
+      <span className="m-title my-2">(Front-End Developer)</span>
       <p className="m-description">
 Passionate Front-End Developer
 with good experience building

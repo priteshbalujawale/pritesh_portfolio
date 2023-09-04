@@ -38,7 +38,7 @@ function About() {
   <ul className="list-group list-group-horizontal about-nav">
   <li className={`list-group-item ${activeComponent === 'About' ? 'active' : ''}`} onClick={() => handleButtonClick('About')}>About</li>
   <li className={`list-group-item ${activeComponent === 'Education' ? 'active' : ''}`} onClick={() => handleButtonClick('Education')}>Education</li>
-  <li className={`list-group-item ${activeComponent === 'Profeessional Skills' ? 'active' : ''}`} onClick={() => handleButtonClick('Profeessional Skills')}>Profeessional Skills</li>
+  <li className={`list-group-item ${activeComponent === 'Profeessional Skills' ? 'active' : ''}`} onClick={() => handleButtonClick('Professional Skills')}>Profeessional Skills</li>
   <li className={`list-group-item ${activeComponent === 'Experience' ? 'active' : ''}`} onClick={() => handleButtonClick('Experience')}>Experience</li>
 </ul>
 <div className="m-about-render-comp"style={{marginTop:'5rem',transition:'3s'}}>{renderComponent()}</div>

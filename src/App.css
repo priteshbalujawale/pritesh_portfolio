@@ -347,9 +347,9 @@ h1,h2,h3{
   .m-navbar .collapse.show a{text-align: center;}
   
 }
-/* .m-about-render-comp{
-  padding-bottom: 5rem;
-} */
+.m-about-render-comp{
+  padding-bottom: 3rem;
+}
 /* Responsive design About Page */
 .m-card-container{margin-top: 50px;}
 
